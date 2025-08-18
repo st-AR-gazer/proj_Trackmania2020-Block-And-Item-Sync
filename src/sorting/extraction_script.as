@@ -1,3 +1,5 @@
+/*
+
 dictionary inventory;
 const string INDENT = "    ";
 const string OUTFILENAME = "dir_structure.txt";
@@ -124,40 +126,37 @@ void WriteExtractedBlockFile() {
 
 // expected output
 
-/*
-/
-Opens/
-    OpenDirt/
-        HillsShort/
-            CurveIn/
-                OpenDirtHillsShortCurve1In.Block.Gbx
-            CurveOut/
-                OpenDirtHillsShortCurve1Out.Block.Gbx
-            Straight/
-                OpenDirtHillsShortBase5.Block.Gbx
-                OpenDirtHillsShortStraight.Block.Gbx
-        OpenDirt/
-            OpentDirtRoadCheckpoints/
-                OpenDirtRoadCheckpoint.Block.Gbx
-                OpenDirtRoadCheckpointSlope2Down.Block.Gbx
-                OpenDirtRoadCheckpointSlope2Left.Block.Gbx
-                OpenDirtRoadCheckpointSlope2Right.Block.Gbx
-                OpenDirtRoadCheckpointSlope2Up.Block.Gbx
-            RoadCurve2/
-                OpenDirtRoadCurve2.Block.Gbx
-                OpenDirtRoadCurve2Slope2DownLeft.Block.Gbx
-                OpenDirtRoadCurve2Slope2DownRight.Block.Gbx
-                OpenDirtRoadCurve2Slope2UpLeft.Block.Gbx
-                OpenDirtRoadCurve2Slope2UpRight.Block.Gbx
-            RoadCurves/
-                OpenDirtRoadCurve1.Block.Gbx
-                OpenDirtRoadCurve1Slope2DownLeft.Block.Gbx
-                OpenDirtRoadCurve1Slope2DownRight.Block.Gbx
-                OpenDirtRoadCurve1Slope2UpLeft.Block.Gbx
-                OpenDirtRoadCurve1Slope2UpRight.Block.Gbx
-            RoadOnSlopes/
- */
-
+// /
+// Opens/
+//     OpenDirt/
+//         HillsShort/
+//             CurveIn/
+//                 OpenDirtHillsShortCurve1In.Block.Gbx
+//             CurveOut/
+//                 OpenDirtHillsShortCurve1Out.Block.Gbx
+//             Straight/
+//                 OpenDirtHillsShortBase5.Block.Gbx
+//                 OpenDirtHillsShortStraight.Block.Gbx
+//         OpenDirt/
+//             OpentDirtRoadCheckpoints/
+//                 OpenDirtRoadCheckpoint.Block.Gbx
+//                 OpenDirtRoadCheckpointSlope2Down.Block.Gbx
+//                 OpenDirtRoadCheckpointSlope2Left.Block.Gbx
+//                 OpenDirtRoadCheckpointSlope2Right.Block.Gbx
+//                 OpenDirtRoadCheckpointSlope2Up.Block.Gbx
+//             RoadCurve2/
+//                 OpenDirtRoadCurve2.Block.Gbx
+//                 OpenDirtRoadCurve2Slope2DownLeft.Block.Gbx
+//                 OpenDirtRoadCurve2Slope2DownRight.Block.Gbx
+//                 OpenDirtRoadCurve2Slope2UpLeft.Block.Gbx
+//                 OpenDirtRoadCurve2Slope2UpRight.Block.Gbx
+//             RoadCurves/
+//                 OpenDirtRoadCurve1.Block.Gbx
+//                 OpenDirtRoadCurve1Slope2DownLeft.Block.Gbx
+//                 OpenDirtRoadCurve1Slope2DownRight.Block.Gbx
+//                 OpenDirtRoadCurve1Slope2UpLeft.Block.Gbx
+//                 OpenDirtRoadCurve1Slope2UpRight.Block.Gbx
+//             RoadOnSlopes/
 
 
 namespace _Text {
@@ -175,3 +174,4 @@ namespace _Text {
         return index;
     }
 }
+*/
